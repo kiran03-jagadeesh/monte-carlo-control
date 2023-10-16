@@ -38,7 +38,8 @@ This uncertainty adds complexity to the agent's navigation.
 The episode terminates when the agent reaches the goal state (G) or falls into a hole (H).
 
 ### GRAPHICAL REPERSENTATION
-![output](rl_2.png)
+![rl_2](https://github.com/kiran03-jagadeesh/monte-carlo-control/assets/94174536/b0556bd7-2dc8-4066-8c34-6e4141cc25b1)
+
 
 ## MONTE CARLO CONTROL ALGORITHM
 1. Initialize the state value function V(s) and the policy π(s) arbitrarily.
@@ -77,8 +78,7 @@ The agent repeats steps 2-4 for a specified number of episodes or until it conve
 The agent returns the optimal Q-values, state-value function, and policy.
 
 ## OUTPUT:
-![output](Rl_op.jpg)
-
+![Rl_op](https://github.com/kiran03-jagadeesh/monte-carlo-control/assets/94174536/74d68540-209b-4fcb-91f6-63697839010d)
 
 ## RESULT:
 
