@@ -35,7 +35,7 @@ This uncertainty adds complexity to the agent's navigation.
 ### Episode Termination
 The episode terminates when the agent reaches the goal state (G) or falls into a hole (H).
 
-### GRAPHICAL REPERSENTATION
+### GRAPHICAL REPRESENTATION
 ![rl_2](https://github.com/kiran03-jagadeesh/monte-carlo-control/assets/94174536/b0556bd7-2dc8-4066-8c34-6e4141cc25b1)
 
 
